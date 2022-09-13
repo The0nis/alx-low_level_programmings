@@ -1,5 +1,5 @@
+#include "main.h"
 #include <unistd.h>
-#include "_putchar.h"
 
 /**
  * main - Prints "_putchar" followed by a new line.
